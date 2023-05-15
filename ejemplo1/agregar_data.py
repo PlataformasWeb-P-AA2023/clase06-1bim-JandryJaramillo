@@ -10,11 +10,11 @@ session = Session()
 # Saludo
 
 miSaludo = Saludo()
-miSaludo.mensaje = "Hola que tal"
+miSaludo.mensaje = "Hola chiquita"
 miSaludo.tipo = "informal"
 
 miSaludo2 = Saludo()
-miSaludo2.mensaje = "Buenas tardes"
+miSaludo2.mensaje = "Buenas Dias"
 miSaludo2.tipo = "formal"
 
 
